@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第三章练习-贪吃蛇", "第三章练习-贪吃蛇\第三章练习-贪吃蛇.vcxproj", "{91EA3E2F-6202-425F-A95E-680C4A37EC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EA3E2F-6202-425F-A95E-680C4A37EC2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91EA3E2F-6202-425F-A95E-680C4A37EC2E}.Debug|Win32.Build.0 = Debug|Win32
+		{91EA3E2F-6202-425F-A95E-680C4A37EC2E}.Release|Win32.ActiveCfg = Release|Win32
+		{91EA3E2F-6202-425F-A95E-680C4A37EC2E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

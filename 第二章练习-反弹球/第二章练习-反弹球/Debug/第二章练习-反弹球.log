@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/2/24 16:15:34。
+     1>项目“E:\C语言\C语言实践\MyCode\第二章练习-反弹球\第二章练习-反弹球\第二章练习-反弹球.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\第二章练习-反弹球.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Software\vs2010\install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>e:\c语言\c语言实践\mycode\第二章练习-反弹球\第二章练习-反弹球\main.c(124): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 e:\software\vs2010\install\vc\include\conio.h(130) : 参见“kbhit”的声明
+     1>e:\c语言\c语言实践\mycode\第二章练习-反弹球\第二章练习-反弹球\main.c(127): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\software\vs2010\install\vc\include\conio.h(128) : 参见“getch”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Software\vs2010\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C语言\C语言实践\MyCode\第二章练习-反弹球\Debug\第二章练习-反弹球.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\第二章练习-反弹球.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C语言\C语言实践\MyCode\第二章练习-反弹球\Debug\第二章练习-反弹球.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C语言\C语言实践\MyCode\第二章练习-反弹球\Debug\第二章练习-反弹球.lib" /MACHINE:X86 "Debug\第二章练习-反弹球.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\第二章练习-反弹球.exe.embed.manifest" /manifest "Debug\第二章练习-反弹球.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         第二章练习-反弹球.vcxproj -> E:\C语言\C语言实践\MyCode\第二章练习-反弹球\Debug\第二章练习-反弹球.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\第二章练习-反弹球.unsuccessfulbuild”。
+         正在对“Debug\第二章练习-反弹球.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\C语言\C语言实践\MyCode\第二章练习-反弹球\第二章练习-反弹球\第二章练习-反弹球.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.98

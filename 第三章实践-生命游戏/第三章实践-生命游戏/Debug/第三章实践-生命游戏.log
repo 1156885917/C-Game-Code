@@ -1,0 +1,26 @@
+﻿生成启动时间为 2019/2/25 17:15:55。
+     1>项目“E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\第三章实践-生命游戏\第三章实践-生命游戏.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\第三章实践-生命游戏.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Software\vs2010\install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Software\vs2010\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\Debug\第三章实践-生命游戏.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\第三章实践-生命游戏.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\Debug\第三章实践-生命游戏.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\Debug\第三章实践-生命游戏.lib" /MACHINE:X86 "Debug\第三章实践-生命游戏.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\第三章实践-生命游戏.exe.embed.manifest" /manifest "Debug\第三章实践-生命游戏.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         第三章实践-生命游戏.vcxproj -> E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\Debug\第三章实践-生命游戏.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\第三章实践-生命游戏.unsuccessfulbuild”。
+         正在对“Debug\第三章实践-生命游戏.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\C语言\C语言实践\MyCode\第三章实践-生命游戏\第三章实践-生命游戏\第三章实践-生命游戏.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.90
