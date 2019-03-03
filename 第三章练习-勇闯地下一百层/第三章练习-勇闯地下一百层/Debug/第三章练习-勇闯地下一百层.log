@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/3/3 11:06:18。
+     1>项目“E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\第三章练习-勇闯地下一百层.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         e:\Software\vs2010\install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\c语言\c语言实践\mycode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\main.cpp(44): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\c语言\c语言实践\mycode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\main.cpp(122): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\c语言\c语言实践\mycode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\main.cpp(221): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 e:\software\vs2010\install\vc\include\conio.h(130) : 参见“kbhit”的声明
+     1>e:\c语言\c语言实践\mycode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\main.cpp(223): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\software\vs2010\install\vc\include\conio.h(128) : 参见“getch”的声明
+     1>e:\c语言\c语言实践\mycode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\main.cpp(263): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs2010\install\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Software\vs2010\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\Debug\第三章练习-勇闯地下一百层.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\第三章练习-勇闯地下一百层.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\Debug\第三章练习-勇闯地下一百层.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\Debug\第三章练习-勇闯地下一百层.lib" /MACHINE:X86 "Debug\第三章练习-勇闯地下一百层.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\第三章练习-勇闯地下一百层.exe.embed.manifest" /manifest "Debug\第三章练习-勇闯地下一百层.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         第三章练习-勇闯地下一百层.vcxproj -> E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\Debug\第三章练习-勇闯地下一百层.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\第三章练习-勇闯地下一百层.unsuccessfulbuild”。
+         正在对“Debug\第三章练习-勇闯地下一百层.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\C语言\C语言实践\MyCode\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层\第三章练习-勇闯地下一百层.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.84
