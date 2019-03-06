@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四章练习-反弹球消砖块", "第四章练习-反弹球消砖块\第四章练习-反弹球消砖块.vcxproj", "{A894C07C-280A-4C80-B5BA-261D52210ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A894C07C-280A-4C80-B5BA-261D52210ABC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A894C07C-280A-4C80-B5BA-261D52210ABC}.Debug|Win32.Build.0 = Debug|Win32
+		{A894C07C-280A-4C80-B5BA-261D52210ABC}.Release|Win32.ActiveCfg = Release|Win32
+		{A894C07C-280A-4C80-B5BA-261D52210ABC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
